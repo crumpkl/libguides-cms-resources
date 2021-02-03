@@ -10,10 +10,11 @@ LibGuides is built on Bootstrap. Not the current version of Bootrap but the fram
     
     Customization options
       
-      *Navbar
-      *Buttons
-      *Dropdowns
-      *Alerts
-      *Layout
-      *Etc
+      Navbar
+      Buttons
+      Dropdowns
+      Alerts
+      Layout
+      Etc
+      
  For more customizaiton options see the "Components" section on the Bootstrap website (https://getbootstrap.com/docs/3.3/components/).
