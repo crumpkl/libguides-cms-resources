@@ -1,1 +1,1 @@
-# libguides-cms-resources
+# LibGuides CMS Resources
