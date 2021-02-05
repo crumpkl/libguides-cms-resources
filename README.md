@@ -51,4 +51,9 @@ Here's were you can find all the examples of the changes you can make to the Fon
 
 Play around with them and see what works best for your website! I'm fan of the fixed-width and increasing the size of the icon. They're great for buttons, lists, directories, address areas, and etc. You can find Font Awesome icons all over the Gregg-Graniteville Library's website. 
  
+ ## Color-Hex
+ 
+ Color-Hex https://www.color-hex.com/
+ 
+ This is one of my favorite resources to use to find color hex codes. Not only does color-hex show you the color you want but also include all the information about the code you could need for adding it to your code. 
 
