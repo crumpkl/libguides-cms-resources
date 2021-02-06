@@ -25,15 +25,19 @@ The grid is your best friend when buildng in LibGuides CMS and it's one of the m
 
 Bootstrap descibes their grid as "a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases. It includes predefined classes for easy layout options, as well as powerful mixins for generating more semantic layouts," which essentially means your webiste is built on 12 columns and you adjust the layout of the content on your website by the size of the rows spanning across the columns.
 
-So, let's say we want 3 equal size boxes across the full 12 columns. We would add a class of .col-md-4 to those particular boxes. 12 columns/4 = 3 boxes
+So, let's say we want 3 equal size boxes across the full 12 columns. We would add a class of .col-md-4 to those particular boxes. 
+    12 columns/4 = 3 boxes
 
-That said, let's say we want 4 equal size boxes across the full 12 columns instead. We would add a class of .col-md-3 this time. 12 columns/3 = 4 boxes
+That said, let's say we want 4 equal size boxes across the full 12 columns instead. We would add a class of .col-md-3 this time. 
+    12 columns/3 = 4 boxes
 
 Basically, you rows of boxes need to be divisible by 12.
 
-You could even mix it up with different size boxes. Like one .col-md-6 box and two .col-md-3 boxes. 6+3+3 = 12 (one large and two small)
+You could even mix it up with different size boxes. Like one .col-md-6 box and two .col-md-3 boxes. 
+    6+3+3 = 12 (one large and two small)
 
-Or one .col-md-8 box and one .col-md-4 box. 8+4 = 12 (one larger box and one small box)
+Or one .col-md-8 box and one .col-md-4 box. 
+    8+4 = 12 (one larger box and one small box)
 
 As long as the total of your .col-md boxes = 12 columns, you're golden.
 
