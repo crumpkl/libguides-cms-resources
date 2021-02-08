@@ -80,4 +80,12 @@ Play around with them and see what works best for your website! I'm fan of the f
  Color-Hex https://www.color-hex.com/
  
  This is one of my favorite resources to use to find color hex codes. Not only does color-hex show you the color you want but also include all the information about the code you could need for adding it to your code. 
+ 
+ ## Chrome DevTools
+ 
+ Chrome DevTools https://developers.google.com/web/tools/chrome-devtools
+ 
+ While using Chrome DevTools, you are able to see changes in real time. It's very useful while coding and updating elements in LibGuides CMS because you don't have to constantly go back into the back-end to make your changes. It's a lifesaver! 
+ 
+ You can access the DevTools by right clicking on an element on your website and clicking Inspect. The code of your page will appear either on the bottom or side of the page. From here you can make changes to the CSS and HTML. This comes in handy when you want to test your CSS before making it live. 
 
