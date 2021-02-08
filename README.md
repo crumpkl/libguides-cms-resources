@@ -1,6 +1,6 @@
 # LibGuides CMS Resources
 
-Mastering LibGuides CMS without any previous experience in LibGuides can be a tricky business. Below are some resources I used to build the Gregg-Graniteville Library's website (https://library.usca.edu/home).
+Mastering LibGuides CMS is a tricky business. Every page reacts to certain elements differently. It takes plenty of patience and work arounds to ensure the website work and looks the way you want it to. Below are some resources I used to build the Gregg-Graniteville Library's website (https://library.usca.edu/home).
 
 ## Bootstrap
 
