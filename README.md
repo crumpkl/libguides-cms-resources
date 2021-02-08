@@ -79,7 +79,7 @@ Play around with them and see what works best for your website! I'm fan of the f
  
  Color-Hex https://www.color-hex.com/
  
- This is one of my favorite resources to use to find color hex codes. Not only does color-hex show you the color you want but also include all the information about the code you could need for adding it to your code. 
+ This is one of my favorite resources to use to find color hex codes. Not only does color-hex show you the color you want but also include all the information about the code you could need for adding it to your code. Color-hex also shows you various tints and shades so you have access to similar colors. This will come in handy if you're trying to locate a lighter shade for your secondary colors. 
  
  ## Chrome DevTools
  
