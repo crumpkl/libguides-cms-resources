@@ -74,6 +74,10 @@ There's even a Bootstrap section because Font Awesome works seamlessly with the 
 Here's were you can find all the examples of the changes you can make to the Font Awesome icons : https://fontawesome.com/v4.7.0/examples/
 
 Play around with them and see what works best for your website! I'm fan of the fixed-width and increasing the size of the icon. They're great for buttons, lists, directories, address areas, and etc. You can find Font Awesome icons all over the Gregg-Graniteville Library's website. 
+
+For example, I used Font Awesome for the quick link buttons found under the catalog box on the homepage. Each button has it's own distinct icon. We (the librarians and members of our tech group) met and decided which icons would best fit with the subject of the button. The code (both HTML and CSS) for the buttons is available for reference. If you take a look at the HTML, you'll notice I used more than one resource in their creation. 
+
+When I was in the beginning stages of building the buttons, I realized I could use the Bootstrap grid to make the buttons. I could use the .row class and give each button the same .col-md size to make sure they were all the same dimensions. Once I figured out my approach, the buttons pretty much created themselves. It was one of the easier elements on the site to build and later update. 
  
  ## Color-Hex
  
