@@ -1,0 +1,27 @@
+/*quick link buttons*/
+div.col-sm {border: 1px solid #be0523; background-color: #be0523; width: 65px; height: 60px; font-size: 8px; font-weight: 600; text-align: center; text-transform: uppercase; line-height: 1.15; }
+svg:not(:root).svg-inline--fa {margin-top: 5px;}
+#ask-lib-btn {margin-top: 20px; margin-left: 18px;}
+#ask-lib-btn a {color: #ffffff;}
+#ask-lib-btn i.fa.fa-question.fa-3x {padding-bottom: 5px; }
+#appt-btn {margin-top: -60px; margin-left: 100px;}
+#appt-btn a {color: #ffffff;}
+#appt-btn i.fa.fa-calendar-check-o.fa-3x {padding-bottom: 5px; }
+#book-room-btn {margin-top: -60px; margin-left: 180px;}
+#book-room-btn a {color: #ffffff;}
+#book-room-btn i.fa.fa-bookmark-o.fa-3x {padding-bottom: 5px; }
+#offcamp-btn {margin-top: -60px; margin-left: 260px;}
+#offcamp-btn a {color: #ffffff;}
+#offcamp-btn i.fa.fa-globe.fa-3x {padding-bottom: 5px; }
+#covid-btn {margin-top: -60px; margin-left: 340px;}
+#covid-btn a {color: #ffffff;}
+#covid-btn i.fa.fa-thermometer-half.fa-3x {padding-bottom: 5px; }
+#ill-btn {margin-top: -60px; margin-left: 420px;}
+#ill-btn a {color: #ffffff;}
+#ill-btn i.fa.fa-university.fa-3x {padding-bottom: 5px; }
+#res-guide-btn{margin-top: -60px; margin-left: 500px;}
+#res-guide-btn a {color: #ffffff;}
+#res-guide-btn i.fa.fa-file-text-o.fa-3x {padding-bottom: 5px; }
+#survey-btn {margin-top: -60px; margin-left: 580px;}
+#survey-btn a {color: #ffffff;}
+#survey-btn i.fa.fa-check-square-o.fa-3x {padding-bottom: 5px; }
