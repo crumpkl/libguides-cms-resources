@@ -99,4 +99,13 @@ When I was in the beginning stages of building the buttons, I realized I could u
  While using Chrome DevTools, you are able to see changes in real time. It's very useful while coding and updating elements in LibGuides CMS because you don't have to constantly go back into the back-end to make your changes. It's a lifesaver! 
  
  You can access the DevTools by right clicking on an element on your website and clicking Inspect. The code of your page will appear either on the bottom or side of the page. From here you can make changes to the CSS and HTML. This comes in handy when you want to test your CSS before making it live. 
+ 
+ ## LibGuides Support
+ 
+ General https://ask.springshare.com/libguides/
+ Training https://training.springshare.com/az.php?t=35251
+ 
+ The best resouce we have in learning and understanding LibGuides CMS are the resources made available via Springshare. There are various how-to guides and training videos I would 100% recommend. They're a great place to start. I find myself going back to some of the guides and videos to see if there's a way to make the CMS work for me rather than working against it. 
+ 
+ Spingshare also provides us with code to hide preloaded elements within the LibGuides CMS that you or your library may choose to not have on your own site. For example, we don't use the breadcrumbs, title bar, header search, and header info.  
 
