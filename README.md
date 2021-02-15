@@ -20,6 +20,8 @@ LibGuides is built on Bootstrap, both the front-end and back-end. Because the ba
  For more customizaiton options see the "Components" section on the Bootstrap website (https://getbootstrap.com/docs/3.3/components/).
  
  ### The Bootstrap Grid
+ 
+ https://getbootstrap.com/docs/3.3/css/#grid
 
 The grid is your best friend when buildng in LibGuides CMS and it's one of the many benefits to LibGuides built on Bootstrap. Once you truly understand how the grid works, you can build and adapt your website to mobile and tablet with no trouble as well as have a cohesive and dynmanic layout. However, it can be difficult to understand if you're not familiar with Bootstrap.
 
@@ -42,6 +44,10 @@ Or one .col-md-8 box and one .col-md-4 box.
 As long as the total of your .col-md boxes = 12 columns, you're golden.
 
 This is the simplest way to use the grid system. This particular method with only using .col-md boxes is called Stacked-to-horizontal. Bootstrap explains it as "Using a single set of .col-md-* grid classes, you can create a basic grid system that starts out stacked on mobile devices and tablet devices (the extra small to small range) before becoming horizontal on desktop (medium) devices. Place grid columns in any .row."
+
+####Container vs Container-Fluid
+
+With Bootstrap, you can add the class of container or container-fluid. The container class adds fixed widths to the grid whereas the container-fluid "Turn[s] any fixed-width grid layout into a full-width layout." The ability to change this class gives us more control over the responsiveness of the website. 
  
  
  ## Font Awesome
