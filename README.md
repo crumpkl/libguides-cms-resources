@@ -23,6 +23,8 @@ LibGuides is built on Bootstrap, both the front-end and back-end. Because the ba
  
  https://getbootstrap.com/docs/3.3/css/#grid
 
+The Bootstrap framework is built on a grid. This grid allows us to build our website in a responsive way and limit our uses of media queries (we hope). By adding classes like row and container, we can ensure that certain elements will live on the same row and will remain on the same row when you change the size of the browser window or open the website on a mobile device or tablet. 
+
 The grid is your best friend when buildng in LibGuides CMS and it's one of the many benefits to LibGuides built on Bootstrap. Once you truly understand how the grid works, you can build and adapt your website to mobile and tablet with no trouble as well as have a cohesive and dynmanic layout. However, it can be difficult to understand if you're not familiar with Bootstrap.
 
 Bootstrap descibes their grid as "a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases. It includes predefined classes for easy layout options, as well as powerful mixins for generating more semantic layouts," which essentially means your webiste is built on 12 columns and you adjust the layout of the content on your website by the size of the rows spanning across the columns.
@@ -45,10 +47,9 @@ As long as the total of your .col-md boxes = 12 columns, you're golden.
 
 This is the simplest way to use the grid system. This particular method with only using .col-md boxes is called Stacked-to-horizontal. Bootstrap explains it as "Using a single set of .col-md-* grid classes, you can create a basic grid system that starts out stacked on mobile devices and tablet devices (the extra small to small range) before becoming horizontal on desktop (medium) devices. Place grid columns in any .row."
 
-####Container vs Container-Fluid
+#### Container vs Container-Fluid
 
 With Bootstrap, you can add the class of container or container-fluid. The container class adds fixed widths to the grid whereas the container-fluid "Turn[s] any fixed-width grid layout into a full-width layout." The ability to change this class gives us more control over the responsiveness of the website. 
- 
  
  ## Font Awesome
  
