@@ -1,6 +1,6 @@
 # LibGuides CMS Resources
 
-Mastering LibGuides CMS is a tricky business. Every page reacts to certain elements differently. It takes plenty of patience and work arounds to ensure your website works and looks the way you want it to. Below are some resources I used to build the Gregg-Graniteville Library's website (https://library.usca.edu/home) and continue to use when updating the website.
+Mastering LibGuides CMS is a tricky business. Every page reacts to certain elements differently. It takes plenty of patience and creativity to ensure your website works and looks the way you want it to. Below are some resources I used to build the Gregg-Graniteville Library's website (https://library.usca.edu/home) and continue to use when updating the website.
 
 ## Bootstrap
 
@@ -62,7 +62,6 @@ With Bootstrap, you can add the class of container or container-fluid. The conta
  One of the best reasons to use Font Awesome is you don't have to worry about adding icons via an image tag. You add and make changes to the icons by adding classes to your code via the icon tag. It's all in the code! It makes things so much easier in the long run and makes edits to the icons easy, too!
  
  As Font Awesome explains in the Font Awesome Examples page (https://fontawesome.com/v4.7.0/examples/), "You can place Font Awesome icons just about anywhere using the CSS Prefix fa and the icon's name. Font Awesome is designed to be used with inline elements (we like the icon tag for brevity, but using a <span> is more semantically correct)."
-    
     
         <i class="fa fa-camera-retro"></i> fa-camera-retro
         
