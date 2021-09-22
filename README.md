@@ -35,7 +35,7 @@ So, let's say we want 3 equal size boxes across the full 12 columns. We would ad
 That said, let's say we want 4 equal size boxes across the full 12 columns instead. We would add a class of .col-md-3 this time. 
     12 columns/3 = 4 boxes
 
-Basically, you rows of boxes need to be divisible by 12.
+Essentially, your rows of boxes need to be divisible by 12.
 
 You could even mix it up with different size boxes. Like one .col-md-6 box and two .col-md-3 boxes. 
     6+3+3 = 12 (one large and two small)
