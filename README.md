@@ -71,9 +71,9 @@ For example, the placement of the icon tag determines where the icon appears.
     
     <div class="col-sm" id="ask-lib-btn"><a href="https://library.usca.edu/chat"><i class="fa fa-question fa-3x" aria-hidden="true"></i></br>Ask a Librarian</a></div>
     
-Because the icon tag appears before the "Ask a Librarian" text of the anchor tag, the icon will appear before the text but will be linked as the text. If the icon tag appeared before the anchor tag, the icon wouldn't be linked but would still appear before the text. Also, if icon tag appeared after the text portion of the anchor tag, the icon would appear after the text "Ask a Librarian" but it would still be linked. 
+Because the icon tag appears before the "Ask a Librarian" text of the anchor tag, the icon will appear before the text but will be linked as the text. If the icon tag appeared before the anchor tag, the icon wouldn't be linked but would still appear before the text. Also, if the icon tag appeared after the text portion of the anchor tag, the icon would appear after the text "Ask a Librarian" but it would still be linked. 
     
-You know how I mentioned earlier how easier it is to edit the icons because it's all in the code? Well, Font Awesome has code aka css classes we can add to our original icon code to change the size of the icons, set icons to fixed width (handy when you're using icons in a list or navigation), replace bullets in lists with your choice of icons, animate the icons and more! Pretty cool, huh? It's a piece of cake, too! We just add the appropriate css code Font Awesome gives us to make changes to the selected icons. The possibilites are endless! 
+You know how I mentioned earlier how easier it is to edit the icons because it's all in the code? Well, Font Awesome has HMTL code classes we can add to our original icon code to change the size of the icons, set icons to fixed width (handy when you're using icons in a list or navigation), replace bullets in lists with your choice of icons, animate the icons and more! Pretty cool, huh? It's a piece of cake, too! We just add the appropriate HTML class code Font Awesome gives us to make changes to the selected icons. The possibilites are endless! 
 
 There's even a Bootstrap section because Font Awesome works seamlessly with the Bootstrap components! These two do all the work for us. 
 
